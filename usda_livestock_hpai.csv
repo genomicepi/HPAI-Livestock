@@ -1,87 +1,94 @@
 State,Species,Date confirmed by NVSL,id,state_latitude,state_longitude,cdc_region,fips,Region__colour
-Idaho,Dairy Milking Cattle,2024-06-06,1,44.3509,-114.613,West,16,#FFA500
-Wyoming,Dairy Milking Cattle,2024-06-06,2,42.9957,-107.5512,West,56,#FFD700
-Texas,Dairy Milking Cattle,2024-06-04,3,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-06-03,4,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-06-03,5,31.4757,-99.3312,South,48,#228B22
-Idaho,Dairy Milking Cattle,2024-06-03,6,44.3509,-114.613,West,16,#FFA500
-South Dakota,Dairy Milking Cattle,2024-05-31,7,44.4443,-100.2263,Midwest,46,#FF1493
-Michigan,Dairy Milking Cattle,2024-05-31,8,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-30,9,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,10,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,11,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,12,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,13,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,14,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-30,15,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-06-10,1,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-06-10,2,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-06-10,3,44.3509,-114.613,West,16,#FFA500
+Iowa,Dairy Milking Cattle,2024-06-07,4,42.0751,-93.496,Midwest,19,#DC143C
+Minnesota,Dairy Milking Cattle,2024-06-07,5,46.2807,-94.3053,Midwest,27,#FA8072
+Minnesota,Dairy Milking Cattle,2024-06-06,6,46.2807,-94.3053,Midwest,27,#FA8072
+Idaho,Dairy Milking Cattle,2024-06-06,7,44.3509,-114.613,West,16,#FFA500
+Wyoming,Dairy Milking Cattle,2024-06-06,8,42.9957,-107.5512,West,56,#FFD700
+Minnesota,Dairy Milking Cattle,2024-06-05,9,46.2807,-94.3053,Midwest,27,#FA8072
+Texas,Dairy Milking Cattle,2024-06-04,10,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-06-03,11,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-06-03,12,31.4757,-99.3312,South,48,#228B22
+Idaho,Dairy Milking Cattle,2024-06-03,13,44.3509,-114.613,West,16,#FFA500
+South Dakota,Dairy Milking Cattle,2024-05-31,14,44.4443,-100.2263,Midwest,46,#FF1493
+Michigan,Dairy Milking Cattle,2024-05-31,15,44.3467,-85.4102,Midwest,26,#2F4F4F
 Idaho,Dairy Milking Cattle,2024-05-30,16,44.3509,-114.613,West,16,#FFA500
-Michigan,Dairy Milking Cattle,2024-05-29,17,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-28,18,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-28,19,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-24,20,44.3509,-114.613,West,16,#FFA500
-Texas,Dairy Milking Cattle,2024-05-23,21,31.4757,-99.3312,South,48,#228B22
-Michigan,Dairy Milking Cattle,2024-05-23,22,44.3467,-85.4102,Midwest,26,#2F4F4F
-South Dakota,Dairy Milking Cattle,2024-05-23,23,44.4443,-100.2263,Midwest,46,#FF1493
-South Dakota,Dairy Milking Cattle,2024-05-22,24,44.4443,-100.2263,Midwest,46,#FF1493
-Colorado,Dairy Milking Cattle,2024-05-22,25,38.9972,-105.5478,West,8,#00FFFF
-Michigan,Dairy Milking Cattle,2024-05-22,26,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-22,27,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-22,28,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-22,29,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-21,30,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-21,31,44.3509,-114.613,West,16,#FFA500
-Colorado,Dairy Milking Cattle,2024-05-20,32,38.9972,-105.5478,West,8,#00FFFF
-Texas,Dairy Milking Cattle,2024-05-20,33,31.4757,-99.3312,South,48,#228B22
-South Dakota,Dairy Milking Cattle,2024-05-17,34,44.4443,-100.2263,Midwest,46,#FF1493
-Idaho,Alpacas,2024-05-16,35,44.3509,-114.613,West,16,#FFA500
-Michigan,Dairy Milking Cattle,2024-05-16,36,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-16,37,44.3509,-114.613,West,16,#FFA500
-Idaho,Dairy Milking Cattle,2024-05-14,38,44.3509,-114.613,West,16,#FFA500
-Michigan,Dairy Milking Cattle,2024-05-14,39,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-14,40,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-11,41,44.3509,-114.613,West,16,#FFA500
-Michigan,Dairy Milking Cattle,2024-05-11,42,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-10,43,44.3467,-85.4102,Midwest,26,#2F4F4F
-Texas,Dairy Milking Cattle,2024-05-09,44,31.4757,-99.3312,South,48,#228B22
-Michigan,Dairy Milking Cattle,2024-05-08,45,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-08,46,44.3467,-85.4102,Midwest,26,#2F4F4F
-Colorado,Dairy Milking Cattle,2024-05-08,47,38.9972,-105.5478,West,8,#00FFFF
-Michigan,Dairy Milking Cattle,2024-05-08,48,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-05-08,49,44.3467,-85.4102,Midwest,26,#2F4F4F
-Idaho,Dairy Milking Cattle,2024-05-07,50,44.3509,-114.613,West,16,#FFA500
-Colorado,Dairy Milking Cattle,2024-04-25,51,38.9972,-105.5478,West,8,#00FFFF
-Idaho,Dairy Milking Cattle,2024-04-19,52,44.3509,-114.613,West,16,#FFA500
-New Mexico,Dairy Milking Cattle,2024-04-17,53,34.4071,-106.1126,West,35,#DDA0DD
-Michigan,Dairy Milking Cattle,2024-04-17,54,44.3467,-85.4102,Midwest,26,#2F4F4F
-Texas,Dairy Milking Cattle,2024-04-17,55,31.4757,-99.3312,South,48,#228B22
-Kansas,Dairy Milking Cattle,2024-04-17,56,38.4937,-98.3804,Midwest,20,#00CED1
-Michigan,Dairy Milking Cattle,2024-04-15,57,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-04-12,58,44.3467,-85.4102,Midwest,26,#2F4F4F
-Michigan,Dairy Milking Cattle,2024-04-12,59,44.3467,-85.4102,Midwest,26,#2F4F4F
-Texas,Dairy Milking Cattle,2024-04-10,60,31.4757,-99.3312,South,48,#228B22
-New Mexico,Dairy Milking Cattle,2024-04-10,61,34.4071,-106.1126,West,35,#DDA0DD
-South Dakota,Dairy Milking Cattle,2024-04-09,62,44.4443,-100.2263,Midwest,46,#FF1493
-New Mexico,Dairy Milking Cattle,2024-04-09,63,34.4071,-106.1126,West,35,#DDA0DD
-North Carolina,Dairy Milking Cattle,2024-04-09,64,35.5557,-79.3877,South,37,#FF8C00
-Texas,Dairy Milking Cattle,2024-04-09,65,31.4757,-99.3312,South,48,#228B22
-New Mexico,Dairy Milking Cattle,2024-04-06,66,34.4071,-106.1126,West,35,#DDA0DD
-New Mexico,Dairy Milking Cattle,2024-04-06,67,34.4071,-106.1126,West,35,#DDA0DD
-Michigan,Dairy Milking Cattle,2024-04-05,68,44.3467,-85.4102,Midwest,26,#2F4F4F
-Texas,Dairy Milking Cattle,2024-04-04,69,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-04-04,70,31.4757,-99.3312,South,48,#228B22
-Ohio,Dairy Milking Cattle,2024-04-02,71,40.2862,-82.7937,Midwest,39,#9400D3
-New Mexico,Dairy Milking Cattle,2024-04-01,72,34.4071,-106.1126,West,35,#DDA0DD
-New Mexico,Dairy Milking Cattle,2024-04-01,73,34.4071,-106.1126,West,35,#DDA0DD
-Kansas,Dairy Milking Cattle,2024-04-01,74,38.4937,-98.3804,Midwest,20,#00CED1
-Idaho,Dairy Milking Cattle,2024-04-01,75,44.3509,-114.613,West,16,#FFA500
-New Mexico,Dairy Milking Cattle,2024-04-01,76,34.4071,-106.1126,West,35,#DDA0DD
-Texas,Dairy Milking Cattle,2024-03-30,77,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-03-30,78,31.4757,-99.3312,South,48,#228B22
-Michigan,Dairy Milking Cattle,2024-03-29,79,44.3467,-85.4102,Midwest,26,#2F4F4F
-Texas,Dairy Milking Cattle,2024-03-27,80,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-03-27,81,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-03-27,82,31.4757,-99.3312,South,48,#228B22
-Kansas,Dairy Milking Cattle,2024-03-26,83,38.4937,-98.3804,Midwest,20,#00CED1
-Kansas,Dairy Milking Cattle,2024-03-26,84,38.4937,-98.3804,Midwest,20,#00CED1
-Texas,Dairy Milking Cattle,2024-03-26,85,31.4757,-99.3312,South,48,#228B22
-Texas,Dairy Milking Cattle,2024-03-25,86,31.4757,-99.3312,South,48,#228B22
+Idaho,Dairy Milking Cattle,2024-05-30,17,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,18,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,19,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,20,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,21,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,22,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-30,23,44.3509,-114.613,West,16,#FFA500
+Michigan,Dairy Milking Cattle,2024-05-29,24,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-28,25,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-28,26,44.3467,-85.4102,Midwest,26,#2F4F4F
+Idaho,Dairy Milking Cattle,2024-05-24,27,44.3509,-114.613,West,16,#FFA500
+Texas,Dairy Milking Cattle,2024-05-23,28,31.4757,-99.3312,South,48,#228B22
+Michigan,Dairy Milking Cattle,2024-05-23,29,44.3467,-85.4102,Midwest,26,#2F4F4F
+South Dakota,Dairy Milking Cattle,2024-05-23,30,44.4443,-100.2263,Midwest,46,#FF1493
+South Dakota,Dairy Milking Cattle,2024-05-22,31,44.4443,-100.2263,Midwest,46,#FF1493
+Colorado,Dairy Milking Cattle,2024-05-22,32,38.9972,-105.5478,West,8,#00FFFF
+Michigan,Dairy Milking Cattle,2024-05-22,33,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-22,34,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-22,35,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-22,36,44.3467,-85.4102,Midwest,26,#2F4F4F
+Idaho,Dairy Milking Cattle,2024-05-21,37,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-21,38,44.3509,-114.613,West,16,#FFA500
+Colorado,Dairy Milking Cattle,2024-05-20,39,38.9972,-105.5478,West,8,#00FFFF
+Texas,Dairy Milking Cattle,2024-05-20,40,31.4757,-99.3312,South,48,#228B22
+South Dakota,Dairy Milking Cattle,2024-05-17,41,44.4443,-100.2263,Midwest,46,#FF1493
+Idaho,Alpacas,2024-05-16,42,44.3509,-114.613,West,16,#FFA500
+Michigan,Dairy Milking Cattle,2024-05-16,43,44.3467,-85.4102,Midwest,26,#2F4F4F
+Idaho,Dairy Milking Cattle,2024-05-16,44,44.3509,-114.613,West,16,#FFA500
+Idaho,Dairy Milking Cattle,2024-05-14,45,44.3509,-114.613,West,16,#FFA500
+Michigan,Dairy Milking Cattle,2024-05-14,46,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-14,47,44.3467,-85.4102,Midwest,26,#2F4F4F
+Idaho,Dairy Milking Cattle,2024-05-11,48,44.3509,-114.613,West,16,#FFA500
+Michigan,Dairy Milking Cattle,2024-05-11,49,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-10,50,44.3467,-85.4102,Midwest,26,#2F4F4F
+Texas,Dairy Milking Cattle,2024-05-09,51,31.4757,-99.3312,South,48,#228B22
+Michigan,Dairy Milking Cattle,2024-05-08,52,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-08,53,44.3467,-85.4102,Midwest,26,#2F4F4F
+Colorado,Dairy Milking Cattle,2024-05-08,54,38.9972,-105.5478,West,8,#00FFFF
+Michigan,Dairy Milking Cattle,2024-05-08,55,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-05-08,56,44.3467,-85.4102,Midwest,26,#2F4F4F
+Idaho,Dairy Milking Cattle,2024-05-07,57,44.3509,-114.613,West,16,#FFA500
+Colorado,Dairy Milking Cattle,2024-04-25,58,38.9972,-105.5478,West,8,#00FFFF
+Idaho,Dairy Milking Cattle,2024-04-19,59,44.3509,-114.613,West,16,#FFA500
+New Mexico,Dairy Milking Cattle,2024-04-17,60,34.4071,-106.1126,West,35,#DDA0DD
+Michigan,Dairy Milking Cattle,2024-04-17,61,44.3467,-85.4102,Midwest,26,#2F4F4F
+Texas,Dairy Milking Cattle,2024-04-17,62,31.4757,-99.3312,South,48,#228B22
+Kansas,Dairy Milking Cattle,2024-04-17,63,38.4937,-98.3804,Midwest,20,#00CED1
+Michigan,Dairy Milking Cattle,2024-04-15,64,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-04-12,65,44.3467,-85.4102,Midwest,26,#2F4F4F
+Michigan,Dairy Milking Cattle,2024-04-12,66,44.3467,-85.4102,Midwest,26,#2F4F4F
+Texas,Dairy Milking Cattle,2024-04-10,67,31.4757,-99.3312,South,48,#228B22
+New Mexico,Dairy Milking Cattle,2024-04-10,68,34.4071,-106.1126,West,35,#DDA0DD
+South Dakota,Dairy Milking Cattle,2024-04-09,69,44.4443,-100.2263,Midwest,46,#FF1493
+New Mexico,Dairy Milking Cattle,2024-04-09,70,34.4071,-106.1126,West,35,#DDA0DD
+North Carolina,Dairy Milking Cattle,2024-04-09,71,35.5557,-79.3877,South,37,#FF8C00
+Texas,Dairy Milking Cattle,2024-04-09,72,31.4757,-99.3312,South,48,#228B22
+New Mexico,Dairy Milking Cattle,2024-04-06,73,34.4071,-106.1126,West,35,#DDA0DD
+New Mexico,Dairy Milking Cattle,2024-04-06,74,34.4071,-106.1126,West,35,#DDA0DD
+Michigan,Dairy Milking Cattle,2024-04-05,75,44.3467,-85.4102,Midwest,26,#2F4F4F
+Texas,Dairy Milking Cattle,2024-04-04,76,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-04-04,77,31.4757,-99.3312,South,48,#228B22
+Ohio,Dairy Milking Cattle,2024-04-02,78,40.2862,-82.7937,Midwest,39,#9400D3
+New Mexico,Dairy Milking Cattle,2024-04-01,79,34.4071,-106.1126,West,35,#DDA0DD
+New Mexico,Dairy Milking Cattle,2024-04-01,80,34.4071,-106.1126,West,35,#DDA0DD
+Kansas,Dairy Milking Cattle,2024-04-01,81,38.4937,-98.3804,Midwest,20,#00CED1
+Idaho,Dairy Milking Cattle,2024-04-01,82,44.3509,-114.613,West,16,#FFA500
+New Mexico,Dairy Milking Cattle,2024-04-01,83,34.4071,-106.1126,West,35,#DDA0DD
+Texas,Dairy Milking Cattle,2024-03-30,84,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-03-30,85,31.4757,-99.3312,South,48,#228B22
+Michigan,Dairy Milking Cattle,2024-03-29,86,44.3467,-85.4102,Midwest,26,#2F4F4F
+Texas,Dairy Milking Cattle,2024-03-27,87,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-03-27,88,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-03-27,89,31.4757,-99.3312,South,48,#228B22
+Kansas,Dairy Milking Cattle,2024-03-26,90,38.4937,-98.3804,Midwest,20,#00CED1
+Kansas,Dairy Milking Cattle,2024-03-26,91,38.4937,-98.3804,Midwest,20,#00CED1
+Texas,Dairy Milking Cattle,2024-03-26,92,31.4757,-99.3312,South,48,#228B22
+Texas,Dairy Milking Cattle,2024-03-25,93,31.4757,-99.3312,South,48,#228B22
